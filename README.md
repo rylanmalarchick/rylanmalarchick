@@ -2,7 +2,6 @@
 
 ### https://code.rylanmalarchick.com/rylanmalarchick
 
-This GitHub account stays around only for upstream forks and pull requests to other people's projects, plus some
-sunsetted paper repos kept read-only.
+(some stuff is still on here, but all of my one off projects, etc. are on the forgejo you see above)
 
 Site: https://rylanmalarchick.com
